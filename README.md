@@ -1,8 +1,4 @@
 # Student-Academic-Performance-Prediction
-Machine learning project for analyzing and predicting student academic performance.
-
-# Student Academic Performance and Prediction
-
 A machine learning project that analyzes student academic performance and predicts academic outcomes using historical student data.
 
 ## Project Overview
